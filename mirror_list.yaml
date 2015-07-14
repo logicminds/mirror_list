@@ -1,2 +1,34 @@
 ---
+---
+pe_puppetserver_gem: https://github.com/puppetlabs/puppetlabs-pe_puppetserver_gem.git
+biemond-jdk7: https://github.com/biemond/biemond-jdk7.git
+biemond-oradb: https://github.com/biemond/biemond-oradb.git
+biemond-orautils: https://github.com/biemond/biemond-orautils.git
+biemond-orwals: https://github.com/biemond/biemond-orawls.git
+easy_type: https://github.com/hajee/easy_type.git
+puppet-archive: https://github.com/nanliu/puppet-archive.git
+puppet-chocolatey: https://github.com/chocolatey/puppet-chocolatey.git
+puppet-filemapper: https://github.com/adrienthebo/puppet-filemapper.git
+puppet-gocd: https://github.com/bodeco/puppet-gocd.git
+puppet-gradle: https://github.com/nanliu/puppet-gradle.git
+puppet-hiera: https://github.com/hunner/puppet-hiera.git
+puppet-java: https://github.com/bodeco/puppet-java.git
+puppetlabs-concat: https://github.com/puppetlabs/puppetlabs-concat.git
+puppetlabs-dism: https://github.com/puppetlabs/puppetlabs-dism.git
+puppetlabs-pe_gem: https://github.com/puppetlabs/puppetlabs-pe_gem.git
+puppetlabs-powershell: https://github.com/puppetlabs/puppetlabs-powershell.git
+puppetlabs-reboot: https://github.com/puppetlabs/puppetlabs-reboot.git
+puppetlabs-registry: https://github.com/puppetlabs/puppetlabs-registry.git
+puppetlabs-stdlib: https://github.com/puppetlabs/puppetlabs-stdlib.git
+puppet-limits: https://github.com/erwbgy/puppet-limits.git
+puppet-module-yamlfile: https://github.com/reidmv/puppet-module-yamlfile.git
+puppet-monitor: https://github.com/bodeco/puppet-monitor.git
 puppet-staging: https://github.com/nanliu/puppet-staging.git
+puppet-sysctl: https://github.com/fiddyspence/puppet-sysctl.git
+puppet-tomcat: https://github.com/bodeco/puppet-tomcat.git
+r10k: https://github.com/acidprime/r10k.git
+puppet-sleep: https://github.com/fiddyspence/puppet-sleep.git
+puppet-sudo: https://github.com/saz/puppet-sudo.git
+puppetlabs-inifile: https://github.com/puppetlabs/puppetlabs-inifile.git
+gitlab_mirrors: https://github.com/logicminds/gitlab_mirrors.git
+windows_env: https://github.com/badgerious/puppet-windows-env.git
