@@ -1,5 +1,4 @@
 ---
----
 pe_puppetserver_gem: https://github.com/puppetlabs/puppetlabs-pe_puppetserver_gem.git
 biemond-jdk7: https://github.com/biemond/biemond-jdk7.git
 biemond-oradb: https://github.com/biemond/biemond-oradb.git
